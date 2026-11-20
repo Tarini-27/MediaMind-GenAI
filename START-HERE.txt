@@ -1,0 +1,17 @@
+MediaMind — teammate setup
+
+This package contains the latest local project source and 50 demo feed videos, including credits.
+Personal saved records, API keys, virtual environments and model caches are excluded.
+
+1. Extract the ZIP and open the MediaMind folder in your editor/terminal.
+2. Install Python 3.12 or newer.
+3. Create an environment: python3.12 -m venv .venv
+4. Install dependencies: .venv/bin/python -m pip install -r requirements-semantic.txt
+5. Run: .venv/bin/python start.py
+6. Open http://localhost:8765
+
+Windows: use .venv\Scripts\python.exe instead of .venv/bin/python.
+Enter your own credentials in Model connection. Gemini is currently required for media extraction and embeddings; OpenRouter is supported for text agents.
+The reranker may download on first use. Save a feed video to a collection to prepare it for search; this uses your provider quota.
+The notebook is local and mocked. Some documentation retains the previous name Gather.
+Read docs/GUIDE_CHECKLIST.md for implemented features versus evaluation evidence still required.

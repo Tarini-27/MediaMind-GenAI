@@ -1,0 +1,664 @@
+MEDIAMIND — MIXED 50-VIDEO DEMO SET
+
+50 videos: 47 with English speech and 3 text-led silent reels.
+10 creator videos/excerpts retain their declared source licences.
+40 original demo reels use original text and synthetic English narration over licensed illustrative Pexels footage.
+Synthetic voices are not the voices of footage creators. No creator endorsement is implied.
+The two 2013 gadget reviews are clearly labelled archival examples; do not use them as current purchasing advice.
+Creator recipes are excerpts unless the title says otherwise; missing steps remain missing.
+Prepared for a private academic app demonstration. Keep attribution and original licence links with shared copies.
+The user-facing folder contains only MP4 files; detailed credits are provided separately here and in the app manifest.
+
+01_Quinoa_cooking_creator_excerpt.mp4
+Quinoa cooking creator excerpt
+Creator video excerpt; original audio retained
+PCTV
+https://archive.org/details/Easy_Vegetarian_Cooking_Show_2.12
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+Original interval 120 to 270.00 seconds; picture fitted without cropping; H.264/AAC conversion. Source credit and excerpt/archive disclosure burned into the portrait margins.
+
+02_Homemade_snack_bars_creator_excerpt.mp4
+Homemade snack bars creator excerpt
+Creator video excerpt; original audio retained
+PCTV
+https://archive.org/details/Easy_Vegetarian_Cooking_Show_4.12
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+Original interval 210 to 375.00 seconds; picture fitted without cropping; H.264/AAC conversion. Source credit and excerpt/archive disclosure burned into the portrait margins.
+
+03_Puffed_rice_salad_creator_excerpt.mp4
+Puffed rice salad creator excerpt
+Creator video excerpt; original audio retained
+PCTV
+https://archive.org/details/Easy_Vegetarian_Cooking_Show_5.12
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+Original interval 300 to 450.00 seconds; picture fitted without cropping; H.264/AAC conversion. Source credit and excerpt/archive disclosure burned into the portrait margins.
+
+04_Black_bean_hummus_creator_excerpt.mp4
+Black bean hummus creator excerpt
+Creator video excerpt; original audio retained
+Creator credited on the linked source item
+https://archive.org/details/dom-11398-1-cooking-with-love-dom-blackbeanhummus
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+Original interval 45 to 210.00 seconds; picture fitted without cropping; H.264/AAC conversion. Source credit and excerpt/archive disclosure burned into the portrait margins.
+
+05_Chickpea_hummus_creator_video.mp4
+Preparing chickpeas for hummus - creator part 1
+Creator video: part 1, bean preparation; not a complete hummus recipe
+Creator credited on the linked source item
+https://archive.org/details/FranciscoDaum-MakingHummus357-2
+https://creativecommons.org/licenses/by-nc/2.0/
+Original interval 0 to 159.00 seconds; picture fitted without cropping; H.264/AAC conversion. Source credit and excerpt/archive disclosure burned into the portrait margins.
+
+06_Tomato_preparation_creator_excerpt.mp4
+Tomato preparation creator excerpt
+Creator video excerpt; original audio retained
+PCTV
+https://archive.org/details/Easy_Vegetarian_Cooking_Show_6.12
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+Original interval 120 to 220.00 seconds; picture fitted without cropping; H.264/AAC conversion. Source credit and excerpt/archive disclosure burned into the portrait margins.
+
+07_Bose_QC20i_archive_2013_review_excerpt.mp4
+Bose QC20i archive 2013 review excerpt
+Creator video excerpt; original audio retained
+Revision 3
+https://archive.org/details/SoldierKnowsBest_322
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+Original interval 25 to 170.00 seconds; picture fitted without cropping; H.264/AAC conversion. Source credit and excerpt/archive disclosure burned into the portrait margins.
+
+08_Pebble_archive_2013_review_excerpt.mp4
+Pebble archive 2013 review excerpt
+Creator video excerpt; original audio retained
+Revision 3
+https://archive.org/details/SoldierKnowsBest_239
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+Original interval 30 to 175.00 seconds; picture fitted without cropping; H.264/AAC conversion. Source credit and excerpt/archive disclosure burned into the portrait margins.
+
+09_Cloth_napkin_folding_creator_video.mp4
+Cloth napkin folding creator video
+Creator video excerpt; original audio retained
+Roland De Leon aka The Springtime65 Show
+https://archive.org/details/OrigamiClothNapkins..ByJosueDeLatorre
+https://creativecommons.org/licenses/by-sa/3.0/us/
+Original interval 0 to 130.01 seconds; picture fitted without cropping; H.264/AAC conversion. Source credit and excerpt/archive disclosure burned into the portrait margins.
+
+10_Rain_effect_digital_painting_creator_excerpt.mp4
+Rain effect digital painting creator excerpt
+Creator video excerpt; original audio retained
+David Revoy
+https://archive.org/details/0fefe46b15c94a6983ceF722d28491b41080
+http://creativecommons.org/licenses/by/4.0/
+Original interval 0 to 110.00 seconds; picture fitted without cropping; H.264/AAC conversion. Source credit and excerpt/archive disclosure burned into the portrait margins.
+
+11_EN_japan-first-trip-small-habits-that-help.mp4
+Japan first trip: small habits that help
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/18662635/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/18662635/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/35813431/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5845560/
+Licence: https://www.pexels.com/license/
+Reference: https://www.japan.travel/en/guide/japanese-manners-dos-and-donts/
+
+12_EN_build-a-city-day-without-rushing.mp4
+Build a city day without rushing
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/36398876/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/36398876/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/36484573/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/35480582/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5451846/
+Licence: https://www.pexels.com/license/
+
+13_EN_bali-inspiration-choose-your-kind-of-day.mp4
+Bali inspiration: choose your kind of day
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/38701713/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/38701713/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/6989017/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/30384288/
+Licence: https://www.pexels.com/license/
+
+14_EN_mountain-trip-three-things-to-save-first.mp4
+Mountain trip: three things to save first
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/28927581/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/28927581/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/37591340/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/37984252/
+Licence: https://www.pexels.com/license/
+
+15_EN_sunset-plans-without-the-last-minute-scramble.mp4
+Sunset plans without the last-minute scramble
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/12785202/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/12785202/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/29078293/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/10343446/
+Licence: https://www.pexels.com/license/
+
+16_EN_pack-a-small-tech-pouch-for-travel.mp4
+Pack a small tech pouch for travel
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/9141886/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/9141886/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5405659/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/9637134/
+Licence: https://www.pexels.com/license/
+
+17_TEXT_three-landscapes-for-your-next-travel-collection.mp4
+Three landscapes for your next travel collection
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/38701713/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/38701713/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/28927581/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/36398876/
+Licence: https://www.pexels.com/license/
+
+18_EN_no-oven-tomato-and-cucumber-salad.mp4
+No-oven tomato and cucumber salad
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/6287158/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/6287158/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/3195728/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/8768892/
+Licence: https://www.pexels.com/license/
+
+19_EN_simple-zucchini-saute-with-lemon.mp4
+Simple zucchini saute with lemon
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/37205783/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/37205783/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7963455/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/12691835/
+Licence: https://www.pexels.com/license/
+
+20_EN_moka-express-coffee-the-brewing-sequence.mp4
+Moka Express coffee: the brewing sequence
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/35035084/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/35035084/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/28677013/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/31264406/
+Licence: https://www.pexels.com/license/
+Reference: https://bialetti-cookware.zendesk.com/hc/en-us/articles/5416235346322-How-to-use-the-Moka-Express
+
+21_EN_iced-coffee-at-home-keep-it-simple.mp4
+Iced coffee at home: keep it simple
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/31264406/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/31264406/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/35035084/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7744417/
+Licence: https://www.pexels.com/license/
+
+22_EN_a-cafe-mood-board-what-would-you-save.mp4
+A cafe mood board: what would you save?
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/18511980/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/18511980/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/26885213/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5644324/
+Licence: https://www.pexels.com/license/
+
+23_EN_movie-night-a-cosy-animation-shortlist.mp4
+Movie night: a cosy animation shortlist
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/8263452/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/8263452/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7984181/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7233648/
+Licence: https://www.pexels.com/license/
+Reference: https://www.pixar.com/feature-films/
+
+24_EN_two-movies-for-a-music-and-creativity-evening.mp4
+Two movies for a music-and-creativity evening
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/7233591/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/7233591/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/8263452/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7984181/
+Licence: https://www.pexels.com/license/
+Reference: https://www.pixar.com/feature-films/
+
+25_EN_a-documentary-series-for-your-creative-watchlist.mp4
+A documentary series for your creative watchlist
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/905049/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/905049/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/8037251/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/6214424/
+Licence: https://www.pexels.com/license/
+Reference: https://www.netflix.com/title/80057883
+
+26_EN_a-five-minute-study-recall-session.mp4
+A five-minute study recall session
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/905049/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/905049/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/36455207/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/32276538/
+Licence: https://www.pexels.com/license/
+
+27_EN_an-animation-double-bill-for-a-rainy-weekend.mp4
+An animation double bill for a rainy weekend
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/7233591/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/7233591/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7984181/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/8263452/
+Licence: https://www.pexels.com/license/
+Reference: https://www.pixar.com/feature-films/
+
+28_EN_watercolour-practice-a-tiny-colour-study.mp4
+Watercolour practice: a tiny colour study
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/8037251/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/8037251/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5008935/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/8037400/
+Licence: https://www.pexels.com/license/
+
+29_EN_paint-mixing-test-before-the-canvas.mp4
+Paint mixing: test before the canvas
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/5008935/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/5008935/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/6214424/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/8049048/
+Licence: https://www.pexels.com/license/
+
+30_EN_an-art-journal-page-without-a-perfect-plan.mp4
+An art journal page without a perfect plan
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/6731283/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/6731283/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/8037251/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7695488/
+Licence: https://www.pexels.com/license/
+
+31_TEXT_palette-inspiration-in-three-colours.mp4
+Palette inspiration in three colours
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/5008935/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/5008935/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7116944/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/8037251/
+Licence: https://www.pexels.com/license/
+
+32_EN_pinch-pot-practice-start-with-a-small-form.mp4
+Pinch-pot practice: start with a small form
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/5670796/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/5670796/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/6693576/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/9733033/
+Licence: https://www.pexels.com/license/
+
+33_EN_a-paper-flower-idea-for-a-handmade-card.mp4
+A paper-flower idea for a handmade card
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/10605106/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/10605106/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/32316551/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/6949843/
+Licence: https://www.pexels.com/license/
+
+34_EN_beaded-bracelet-plan-the-pattern-first.mp4
+Beaded bracelet: plan the pattern first
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/7102536/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/7102536/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/10648315/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5363217/
+Licence: https://www.pexels.com/license/
+
+35_EN_pottery-wheel-observe-the-sequence.mp4
+Pottery wheel: observe the sequence
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/6610397/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/6610397/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/35487051/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/9733033/
+Licence: https://www.pexels.com/license/
+
+36_TEXT_a-handmade-pottery-mood-board.mp4
+A handmade pottery mood board
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/7669187/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/7669187/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7948428/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/6693576/
+Licence: https://www.pexels.com/license/
+
+37_EN_a-simple-makeup-routine-to-practise.mp4
+A simple makeup routine to practise
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/4912018/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/4912018/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/4631704/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/10729070/
+Licence: https://www.pexels.com/license/
+Reference: https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/replace-makeup-sunscreen
+
+38_EN_makeup-brushes-cleaning-reminders.mp4
+Makeup brushes: cleaning reminders
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/7290137/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/7290137/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/34538456/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/10729070/
+Licence: https://www.pexels.com/license/
+Reference: https://www.aad.org/public/everyday-care/skin-care-secrets/routine/clean-your-makeup-brushes
+
+39_EN_choosing-a-lip-colour-without-buying-five.mp4
+Choosing a lip colour without buying five
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/4912018/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/4912018/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/8479189/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/4631704/
+Licence: https://www.pexels.com/license/
+Reference: https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/replace-makeup-sunscreen
+
+40_EN_headphones-make-a-buying-checklist.mp4
+Headphones: make a buying checklist
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/9141886/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/9141886/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/905049/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/32276538/
+Licence: https://www.pexels.com/license/
+
+41_EN_a-drawing-tablet-checklist-before-you-buy.mp4
+A drawing tablet checklist before you buy
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/36455207/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/36455207/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/32276538/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/905049/
+Licence: https://www.pexels.com/license/
+
+42_EN_3d-printing-what-a-short-clip-leaves-out.mp4
+3D printing: what a short clip leaves out
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/30318835/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/30318835/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/6755162/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/905049/
+Licence: https://www.pexels.com/license/
+
+43_EN_build-three-outfits-from-one-base.mp4
+Build three outfits from one base
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/35132257/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/35132257/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/28223027/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5405659/
+Licence: https://www.pexels.com/license/
+
+44_EN_accessories-choose-one-focal-point.mp4
+Accessories: choose one focal point
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/10648315/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/10648315/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5363217/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5363773/
+Licence: https://www.pexels.com/license/
+
+45_EN_a-useful-outfit-shopping-checklist.mp4
+A useful outfit-shopping checklist
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/13929683/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/13929683/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5704909/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7668415/
+Licence: https://www.pexels.com/license/
+
+46_EN_make-a-short-walk-easier-to-repeat.mp4
+Make a short walk easier to repeat
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/27946617/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/27946617/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/16058046/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/32200251/
+Licence: https://www.pexels.com/license/
+Reference: https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html
+
+47_EN_build-a-movement-playlist-around-your-routine.mp4
+Build a movement playlist around your routine
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/4359315/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/4359315/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/32200251/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/27946617/
+Licence: https://www.pexels.com/license/
+Reference: https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html
+
+48_EN_a-calmer-start-to-a-home-practice.mp4
+A calmer start to a home practice
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/4359315/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/4359315/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7614417/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5644324/
+Licence: https://www.pexels.com/license/
+Reference: https://www.cdc.gov/healthy-weight-growth/physical-activity/getting-started.html
+
+49_EN_houseplants-read-the-plant-not-a-calendar.mp4
+Houseplants: read the plant, not a calendar
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/6628152/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/6628152/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7614417/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5744429/
+Licence: https://www.pexels.com/license/
+
+50_EN_a-cosy-corner-using-what-you-already-have.mp4
+A cosy corner using what you already have
+Original demo reel; illustrative licensed footage
+Original MediaMind demo edit, text and synthetic English narration; footage creators credited in companion manifest
+https://www.pexels.com/video/5644324/
+https://www.pexels.com/license/
+Five-second visual cuts; portrait composition; original timed English text and narration. Narration describes original advice/ideas, not claims made by footage creators.
+Footage: https://www.pexels.com/video/5644324/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/5744429/
+Licence: https://www.pexels.com/license/
+Footage: https://www.pexels.com/video/7614417/
+Licence: https://www.pexels.com/license/

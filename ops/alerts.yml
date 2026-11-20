@@ -1,0 +1,13 @@
+groups:
+  - name: gather-agent-health
+    rules:
+      - alert: GatherAgentErrors
+        expr: sum(increase(gather_runs_total{outcome="error"}[5m])) >= 3
+        for: 0m
+        labels: {severity: warning}
+        annotations: {summary: "Gather recorded at least three failed runs in five minutes"}
+      - alert: GatherUnavailable
+        expr: up{job="gather"} == 0
+        for: 1m
+        labels: {severity: critical}
+        annotations: {summary: "Gather API cannot be scraped"}

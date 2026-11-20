@@ -1,0 +1,17 @@
+# Memory policy — local single-user prototype
+
+Purpose: retain reviewed media knowledge, a short conversation and optional answer preferences. This app is not a multi-user service. Anyone with access to this computer/browser workspace can access its content. Do not expose its port publicly.
+
+Source originals, extracted notes, collection assignments and semantic vectors are stored locally after the user imports them. AI extraction and semantic embeddings send selected content to Google only when requested. Agent answers send retrieved excerpts and the current question to the selected provider (Gemini/OpenRouter). Provider-side retention is outside local deletion and must be checked before a real pilot.
+
+Conversation: LangGraph checkpoints in `data/agents.sqlite3` store queries, plans, evidence, generated drafts, review state and a six-message rolling working context. Trimming working context does not delete older checkpoints. Chat ID is stored in browser localStorage; keys and messages are not stored there. Select **New chat** to delete that chat's checkpoints. Pending approval survives restarting the app. API keys belong only to the current request/runtime and are excluded from checkpoints, tools, logs and persistent preferences.
+
+Preferences: explicit opt-in is required. Supported preferences are answer length and preferred topic; no inferred sensitive profile. Preferences expire after 30 days, can be corrected by saving another value, and can be deleted with **Delete preferences**. Disabling **Use my preferences** prevents preference retrieval in that run. A SQLite-backed LangGraph Store holds the current preference snapshot; deleting preferences clears that snapshot too. Prior conversation checkpoints can contain previously used preferences; delete the associated chat to remove those copies. This limitation must be disclosed in a pilot consent screen.
+
+Notebook: exact reviewed answers are saved only after explicit approve. Changing the title requires a new approval hash; factual edits require a new evidence-backed request. Reject writes nothing. Notebook notes remain until individually deleted. Retained citations are rechecked against source existence and version immediately before publishing. Changing/deleting a source invalidates a pending approval.
+
+Lessons: development-only Reflexion proposals remain pending until a person approves or rejects them with a reason. Only approved lessons with relevant applicability words enter context. Frozen playbook snapshots are immutable experiment artefacts; remove personal data before freezing them. Do not use held-out tasks to create lessons.
+
+Deletion and access: SQLite/local files are not encrypted by the app; operating-system account controls are the boundary. Use the UI to remove source originals and their indexes; independently delete any downloaded exports, shared bundles, backups or provider records. Local Qdrant is an auxiliary index, never an authority for access: retrieval is restricted to currently approved source IDs. SQLite-backed vectors remain rebuildable. Team-held evaluation labels, reports and backups need their own retention agreement.
+
+Before a pilot: add authenticated per-user scopes in every table/tool/vector filter, encryption and access logging, explicit provider consent, automated expiry/checkpoint cleanup and a tested deletion ledger covering derived outputs. No claim of production readiness is made.
