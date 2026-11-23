@@ -14,7 +14,7 @@ from prometheus_client import generate_latest, CONTENT_TYPE_LATEST
 from starlette.concurrency import run_in_threadpool
 import app as legacy
 from . import storage
-from .graph import run_events, context, get_graph
+from .graph import run_events, context, get_graph, close_graph
 from .security import REQUESTS, LATENCY, scrub
 
 _locks={}
@@ -25,9 +25,12 @@ async def lifespan(application):
     legacy.init();storage.init();get_graph()
     legacy.STOP.clear()
     thread=threading.Thread(target=legacy.worker,daemon=True);thread.start()
-    yield
-    legacy.STOP.set()
-    thread.join(timeout=1)
+    try:
+        yield
+    finally:
+        legacy.STOP.set()
+        thread.join(timeout=1)
+        close_graph()
 
 api=FastAPI(title='Gather Saved',version='0.3',lifespan=lifespan)
 

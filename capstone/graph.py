@@ -291,15 +291,34 @@ def compile_graph(checkpointer,store):
 
 _graph=None
 _graph_path=None
-_init_lock=threading.Lock()
+_graph_connection=None
+_init_lock=threading.RLock()
+
+
+def close_graph():
+    """Release the persistent checkpointer when the app or test shuts down."""
+    global _graph,_graph_path,_graph_connection
+    with _init_lock:
+        if _graph_connection is not None:
+            _graph_connection.close()
+        _graph=None
+        _graph_path=None
+        _graph_connection=None
 
 def get_graph():
-    global _graph,_graph_path
+    global _graph,_graph_path,_graph_connection
     path=str(app.DATA/'agents.sqlite3')
     with _init_lock:
         if _graph is None or _graph_path!=path:
+            close_graph()
             connection=sqlite3.connect(path,check_same_thread=False)
-            _graph=compile_graph(SqliteSaver(connection),PersistentStore());_graph_path=path
+            try:
+                _graph=compile_graph(SqliteSaver(connection),PersistentStore())
+            except BaseException:
+                connection.close()
+                raise
+            _graph_connection=connection
+            _graph_path=path
     return _graph
 
 

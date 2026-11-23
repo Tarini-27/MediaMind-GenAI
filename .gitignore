@@ -1,0 +1,20 @@
+# Local Python environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-cache-files-*/
+.cache/
+*.egg-info/
+
+# Credentials and private runtime data
+.env
+.env.*
+!.env.example
+data/
+imports/
+MediaMind-Reels-50/
+*.log
+
+# Machine-specific dependency snapshots
+requirements-windows.local.txt

@@ -1,5 +1,6 @@
 """Evaluation: isolated SQLite data, explicit splits, failures counted, no invented scores."""
 import argparse
+from contextlib import contextmanager
 import hashlib
 import json
 import os
@@ -12,13 +13,23 @@ import uuid
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
 import app
 from capstone import storage,retrieval
-from capstone.graph import context,run_events
+from capstone.graph import context,run_events,close_graph
 from capstone.models import Models
 from capstone.security import Budget
 
 ROOT=Path(__file__).parent
 
 def read(path):return [json.loads(line) for line in path.read_text().splitlines() if line.strip()]
+
+@contextmanager
+def isolated_data(directory):
+    # Windows cannot delete the temporary directory while the checkpoint database is open.
+    original=(app.DATA,app.DB)
+    app.DATA=Path(directory);app.DB=app.DATA/'knowledge.sqlite3'
+    try:yield
+    finally:
+        close_graph()
+        app.DATA,app.DB=original
 
 def seed(cases):
     mapping={}
@@ -52,8 +63,8 @@ def evaluate(args):
     rows=[]
     key=os.environ.get('OPENROUTER_API_KEY' if args.provider=='openrouter' else 'GEMINI_API_KEY','') if args.live else ''
     if args.live and (not key or not args.model):raise ValueError('Live evaluation requires a configured key and --model.')
-    with tempfile.TemporaryDirectory(prefix='gather-evaluation-') as directory:
-        app.DATA=Path(directory);app.DB=app.DATA/'knowledge.sqlite3';app.init();storage.init()
+    with tempfile.TemporaryDirectory(prefix='gather-evaluation-') as directory,isolated_data(directory):
+        app.init();storage.init()
         # Retrieval sees the source corpus, never queries or held-out labels.
         mapping=seed(cases)
         if args.semantic:
@@ -112,6 +123,10 @@ def main():
     p.add_argument('--modality',choices=['transcript','multimodal'],default='multimodal');p.add_argument('--output',type=Path,default=ROOT/'results'/'latest.json');p.add_argument('--min-recall',type=float)
     args=p.parse_args()
     if args.repeats<1:p.error('Use at least one repeat.')
+    if args.live:
+        # Models falls back to environment keys, so offline runs must not load credentials.
+        from dotenv import load_dotenv
+        load_dotenv(ROOT.parent/'.env',override=False)
     evaluate(args)
 
 if __name__=='__main__':main()

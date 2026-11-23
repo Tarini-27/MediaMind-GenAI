@@ -2,6 +2,7 @@
 """Gather Saved: a local multimedia saved-collections and knowledge-search POC."""
 import argparse
 import base64
+from contextlib import contextmanager
 import hashlib
 import hmac
 import json
@@ -89,10 +90,15 @@ Do not infer "high protein", dietary safety or allergens beyond what the source 
 '''
 
 
+@contextmanager
 def conn():
     c = sqlite3.connect(DB, timeout=20)
     c.row_factory = sqlite3.Row
-    return c
+    try:
+        with c:
+            yield c
+    finally:
+        c.close()
 
 
 def init():

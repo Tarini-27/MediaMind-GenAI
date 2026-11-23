@@ -11,7 +11,7 @@ import app
 from fastapi.testclient import TestClient
 from fastmcp import Client
 from capstone import storage, retrieval, grants
-from capstone.graph import get_graph,run_events,context
+from capstone.graph import get_graph,run_events,context,close_graph
 from capstone.api import api
 from capstone.mcp_servers import SERVERS,invoke
 from capstone.security import Budget
@@ -23,6 +23,7 @@ class AgentTests(unittest.TestCase):
         app.init();storage.init();self.ids=app.load_samples()
         with app.conn() as c:c.execute("UPDATE jobs SET status='approved'")
     def tearDown(self):
+        close_graph()
         app.DATA,app.DB=self.original;self.temp.cleanup()
     def run_graph(self,question='paneer',**opts):
         return list(run_events('a'*32,question,context(),filters={},mode='team',**opts))
