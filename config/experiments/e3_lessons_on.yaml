@@ -1,0 +1,5 @@
+# E3: Reflexion playbook on (freeze the playbook before the held-out run)
+extends: ../mediamind.yaml
+name: e3_lessons_on
+experiment:
+  lessons: true

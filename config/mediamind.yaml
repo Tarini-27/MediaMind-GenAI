@@ -1,0 +1,86 @@
+# MediaMind versioned config. Prompts, model IDs and experiment flags live HERE only.
+# Every role imports this through mediamind.config.load_config(); nobody hardcodes a model or flag.
+name: "base"
+version: "0.2.0"          # bump when you change anything an experiment depends on
+
+models:
+  supervisor: "openai/gpt-4.1"        # stronger model for supervisor + planner
+  specialist: "openai/gpt-4.1-mini"   # Reader/Classifier/Extractor/Critic/Answerer/Organizer, vision
+  judge: "meta-llama/llama-3.3-70b-instruct"   # different family from the agents
+  embeddings: "baai/bge-m3"
+  guard: "meta-llama/llama-guard-4-12b"
+
+# How models are called. The API key is read from the environment variable named here (.env), never stored here.
+llm:
+  base_url: "https://openrouter.ai/api/v1"
+  api_key_env: "OPENROUTER_API_KEY"
+  timeout_s: 60
+  max_retries: 2
+  temperature: 0
+  pricing: {}               # optional fallback USD per 1M tokens: {"model/id": {"input": x, "output": y}}
+
+# Experiment switches (E1-E4 are just different values of these). Experiment files in
+# config/experiments/ override only these lines; nobody edits code to run an experiment.
+experiment:
+  agent_mode: "team"        # c0_workflow | c1_single_agent | team   (E1)
+  defences: true            # false = guardrails off                  (E2)
+  memory: true              # memory on/off comparison
+  lessons: false            # Reflexion playbook on/off               (E3)
+  playbook_path: "config/playbook.json"
+  extraction: "schema"      # schema | free_form                      (E4 candidate, see note in docs)
+  retrieval_index: "both"   # both | records | chunks                 (E4 candidate, from the proposal)
+
+# Placeholders until measured from real traces (see README). Enforced for every configuration.
+budgets:
+  max_tool_calls_per_run: 25
+  max_tokens_per_run: 60000
+  max_cost_usd_per_run: 0.05
+  max_seconds_per_run: 120  # a run past this is recorded as "timeout"
+
+tracing:
+  dir: "data/traces"        # one JSON file per run, read by the evaluation harness
+  max_field_chars: 2000
+  capture_content: true     # prompts and model replies in traces (PII and secrets scrubbed); false = numbers only
+  langfuse: false
+
+# Login. OFF while the team builds, so scripts and teammates don't need to log in; everyone is default_user.
+# Turn ON (true) for the final demo: then the user comes only from the session cookie, never from the request.
+auth:
+  required: false
+  default_user: "demo"
+  session_hours: 168
+  cookie_secure: false      # set true when served over HTTPS
+  max_failed_logins: 5
+  lockout_minutes: 5
+  history_size: 50          # recent searches kept per user, shown as suggestions
+
+guardrails:
+  max_upload_mb: 25          # images
+  max_video_mb: 100
+  max_video_seconds: 180     # longer videos are refused (cost and latency of transcription)
+  allowed_types: ["image/png", "image/jpeg", "image/webp", "video/mp4", "video/webm"]
+  classify_confidence_threshold: 0.70   # below this goes to the review queue (applied by code)
+
+# Permission matrix: which agent may call which tool. Tool names are MCP tool names.
+# Only the organizer gets write tools. Hooks enforce this; a test checks it.
+permissions:
+  reader:     ["media.ocr", "media.caption", "media.transcribe"]
+  classifier: ["rules.get_schema"]
+  extractor:  ["rules.get_schema", "rules.validate", "rules.normalize_units"]
+  critic:     ["rules.validate"]
+  answerer:   ["knowledge.search", "knowledge.get_record", "knowledge.list_collections"]
+  organizer:  ["library.save", "library.update", "library.move", "library.collect", "library.soft_delete", "rules.dedupe"]
+
+# Tools that change the outside world. Each call must pass the approval gate.
+write_tools: ["library.save", "library.update", "library.move", "library.collect", "library.soft_delete"]
+
+# One prompt per agent, written in the six slots from class: role, context, task, constraints,
+# format, examples. Role 3 fills these; they are versioned with this file and hashed into every trace.
+prompts:
+  supervisor: "TODO(role 3)"
+  reader: "TODO(role 3)"
+  classifier: "TODO(role 3)"
+  extractor: "TODO(role 3)"
+  critic: "TODO(role 3)"
+  answerer: "TODO(role 3)"
+  organizer: "TODO(role 3)"

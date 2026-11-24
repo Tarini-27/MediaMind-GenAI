@@ -1,0 +1,47 @@
+# docker compose up --build                        -> the app: API + Angular frontend
+# docker compose --profile monitoring up --build   -> the app plus Prometheus and Grafana (Day 9)
+# Monitoring is opt-in because its images are large downloads the app itself doesn't need.
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+    env_file:                    # your keys; optional so a fresh clone still starts
+      - path: .env
+        required: false
+    environment:
+      # SQLite is slow or hangs on a folder shared from Windows, so the database lives in a Docker volume.
+      # Media, uploads and traces stay in ./data on your disk.
+      MEDIAMIND_DB: /app/state/mediamind.sqlite
+    volumes:
+      - ./data:/app/data
+      - mediamind-state:/app/state
+    healthcheck:                 # the frontend waits for this; the first start can be slow
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health', timeout=3)"]
+      start_period: 60s          # failures in the first minute don't count
+      interval: 5s
+      timeout: 5s
+      retries: 12
+
+  frontend:                      # Angular, served by nginx; /api/* is proxied to the api service
+    build: ./frontend
+    ports: ["4200:80"]
+    depends_on:
+      api: {condition: service_healthy}
+
+  prometheus:
+    profiles: [monitoring]
+    image: prom/prometheus:latest
+    volumes: ["./config/prometheus.yml:/etc/prometheus/prometheus.yml:ro"]
+    ports: ["9090:9090"]
+
+  grafana:
+    profiles: [monitoring]
+    image: grafana/grafana:latest
+    ports: ["3000:3000"]
+    depends_on: [prometheus]
+
+  # TODO(role 2): media-mcp, knowledge-mcp, rules-mcp, library-mcp (HTTP) + vector store
+  # TODO(role 4, week 3): langfuse
+
+volumes:
+  mediamind-state:          # the database; survives restarts, removed only by `docker compose down -v`

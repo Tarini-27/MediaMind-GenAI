@@ -1,0 +1,18 @@
+# Secrets never go into an image. Compose passes them at runtime via env_file.
+.env
+.env.*
+!.env.example
+
+# Not needed in the backend image
+.git
+.venv
+venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+frontend/
+data/*.sqlite*
+data/uploads/
+data/traces/
+data/heldout/

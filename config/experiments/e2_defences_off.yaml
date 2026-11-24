@@ -1,0 +1,5 @@
+# E2: guardrails, permission and approval checks off. Budgets still apply.
+extends: ../mediamind.yaml
+name: e2_defences_off
+experiment:
+  defences: false

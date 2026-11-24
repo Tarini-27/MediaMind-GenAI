@@ -1,0 +1,5 @@
+# E1, baseline C0: fixed workflow, no agent decisions
+extends: ../mediamind.yaml
+name: e1_c0_workflow
+experiment:
+  agent_mode: c0_workflow

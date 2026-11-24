@@ -1,0 +1,5 @@
+# E1, C2: supervisor plus specialists (same as base)
+extends: ../mediamind.yaml
+name: e1_c2_team
+experiment:
+  agent_mode: team

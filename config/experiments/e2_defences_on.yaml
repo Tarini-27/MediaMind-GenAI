@@ -1,0 +1,5 @@
+# E2: defences on (same as base)
+extends: ../mediamind.yaml
+name: e2_defences_on
+experiment:
+  defences: true

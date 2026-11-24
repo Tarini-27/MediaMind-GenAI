@@ -1,0 +1,27 @@
+/* MediaMind look, after the proposal's sample screen: white panes, a purple accent, warm red for approvals. */
+:root {
+  --bg: #f6f5fa; --surface: #ffffff; --border: #e4e1ee; --text: #1f1c2e; --muted: #6c6880;
+  --brand: #5b3cc4; --brand-strong: #4a2fa8; --brand-soft: #efebfb;
+  --accent: #5b3cc4; --warm: #e2553d; --warm-soft: #fdeeea; --danger: #d63d3d; --ok: #2e9e57;
+  --media-bg: #2b2244; --radius: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #121019; --surface: #1b1826; --border: #322d44; --text: #eeecf5; --muted: #a29db8;
+    --brand: #9a83ff; --brand-strong: #b3a2ff; --brand-soft: #2a2342;
+    --accent: #9a83ff; --warm: #ff8a70; --warm-soft: #3a2420; --danger: #ff6b6b; --media-bg: #0c0a14;
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; background: var(--bg); color: var(--text);
+  font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; }
+button { font: inherit; cursor: pointer; }
+input, select { font: inherit; color: inherit; }
+.btn { border: 0; border-radius: 999px; padding: 8px 16px; font-weight: 600; background: var(--brand); color: #fff;
+  &:hover:not(:disabled) { background: var(--brand-strong); }
+  &.ghost { background: var(--surface); color: var(--text); border: 1px solid var(--border); }
+  &.danger { background: var(--surface); color: var(--danger); border: 1px solid var(--border); }
+  &:disabled { opacity: .45; cursor: not-allowed; } }
+.chip { display: inline-block; font-size: 12px; padding: 2px 10px; border-radius: 999px;
+  background: var(--brand-soft); color: var(--brand); margin: 0 4px 4px 0; text-transform: capitalize; }
+.caps { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; }

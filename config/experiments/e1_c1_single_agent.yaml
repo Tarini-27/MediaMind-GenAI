@@ -1,0 +1,5 @@
+# E1, baseline C1: one agent with all the tools, same model and budget
+extends: ../mediamind.yaml
+name: e1_c1_single_agent
+experiment:
+  agent_mode: c1_single_agent

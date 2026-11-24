@@ -1,0 +1,5 @@
+# E4 candidate from the proposal: retrieval over records only (vs chunks only vs both)
+extends: ../mediamind.yaml
+name: e4_records_only
+experiment:
+  retrieval_index: records

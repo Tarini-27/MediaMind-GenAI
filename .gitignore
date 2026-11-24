@@ -221,3 +221,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/traces/
+
+# ---- MediaMind (added) ----
+# Installed packages and build output: recreated by npm install / ng build, never committed
+node_modules/
+frontend/n
+frontend/.angular/
+frontend/dist/
+# Local runtime data: database, user uploads, run traces
+data/*.sqlite
+data/*.sqlite-*
+data/uploads/
+data/traces/
+# Playwright / test output
+test-results/
+playwright-report/

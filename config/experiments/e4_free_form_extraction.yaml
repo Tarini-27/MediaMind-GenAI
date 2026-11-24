@@ -1,0 +1,5 @@
+# E4 candidate: free-form extraction instead of schema-validated
+extends: ../mediamind.yaml
+name: e4_free_form_extraction
+experiment:
+  extraction: free_form
